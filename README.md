@@ -27,7 +27,8 @@
 
 ## Sample endpoints
 
-    | :---:                     | :----: | :---:                                                              |
+    | Purpose                   | Method | Endpoint                                                           |
+    |:-------------------------:|:------:|:------------------------------------------------------------------:|
     | Get All Questions         | GET    | http://localhost:8080/question/allQuestions                        |
     | Get Questions By Category | GET    | http://localhost:8080/question/category/java                       |
     | Add New Question          | POST   | http://localhost:8080/question/add                                 |
