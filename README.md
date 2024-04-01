@@ -16,14 +16,11 @@ This is a simple Spring Boot project which has endpoints for a Quiz Application.
 
 ## Add the below code in application.properties
 
-    ``` 
     spring.jpa.hibernate.ddl-auto=update
     spring.datasource.url=jdbc:mysql://localhost:3306/DatabaseName
     spring.datasource.username=root
     spring.datasource.password=yourDatabasePassword
     spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
-
-    ```
 
 
 
