@@ -27,15 +27,15 @@
 
 ## Sample endpoints
 
-    | Purpose                   	| Method 	| Endpoint                                                           	|
-    |---------------------------	|--------	|--------------------------------------------------------------------	|
-    | Get All Questions         	| *GET*    	| http://localhost:8080/question/allQuestions                        	|
-    | Get Questions By Category 	| *GET*    	| http://localhost:8080/question/category/java                       	|
-    | Add New Question          	| *POST*   	| http://localhost:8080/question/add                                 	|
-    | Delete A Question         	| *DELETE* 	| http://localhost:8080/question/delete/2                            	|
-    | Create New Quiz           	| *POST*   	| http://localhost:8080/quiz/create?category=java&numQ=5&title=JQuiz 	|
-    | Get New Quiz              	| *GET*    	| http://localhost:8080/quiz/get/1                                   	|
-    | Submit Quiz and Get Score 	| *POST*   	| http://localhost:8080/quiz/submit/1                                	|
+| Purpose                   	| Method 	| Endpoint                                                           	|
+|---------------------------	|--------	|--------------------------------------------------------------------	|
+| Get All Questions         	| *GET*    	| http://localhost:8080/question/allQuestions                        	|
+| Get Questions By Category 	| *GET*    	| http://localhost:8080/question/category/java                       	|
+| Add New Question          	| *POST*   	| http://localhost:8080/question/add                                 	|
+| Delete A Question         	| *DELETE* 	| http://localhost:8080/question/delete/2                            	|
+| Create New Quiz           	| *POST*   	| http://localhost:8080/quiz/create?category=java&numQ=5&title=JQuiz 	|
+| Get New Quiz              	| *GET*    	| http://localhost:8080/quiz/get/1                                   	|
+| Submit Quiz and Get Score 	| *POST*   	| http://localhost:8080/quiz/submit/1                                	|
 
 
 
